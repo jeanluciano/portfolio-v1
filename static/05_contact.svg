@@ -1,0 +1,13 @@
+<svg viewBox="0 0 8000 4500" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"
+    stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+    <path
+        d="M8000 833.333c-459.929 0-833.333-373.404-833.333-833.333M8000 2181.67c-1204.1 0-2181.67-977.572-2181.67-2181.67M8000 1277.08c-704.841 0-1277.08-572.242-1277.08-1277.08"
+        fill="none" stroke="#414141" stroke-width="20.83" />
+    <g fill="none" stroke="#414141" stroke-width="20.83">
+        <path
+            d="M4718 1301.36C4557.981 898.589 4470 459.489 4470 0M8000 3530c-1289.73 0-2418.84-693.167-3034.78-1726.96" />
+    </g>
+    <path d="M4483.8 4500C3147.69 3454.17 2288.35 1826.65 2288.35 0" fill="none" stroke="#414141"
+        stroke-width="20.83" />
+    <circle cx="4837.97" cy="1556.25" r="279.167" fill="none" stroke="#414141" stroke-width="20.83" />
+</svg>
